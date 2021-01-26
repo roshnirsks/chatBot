@@ -1,5 +1,5 @@
 # chatBot
 a simple ChatBot 
 
-##pre requirment
+## pre requirment
 * chatterbot
